@@ -1,2 +1,3 @@
 # Phishing-Website-checker
-Detecting various ware from anything
+Detecting various malicious from anything
+Heavily Inspired by VirusTotal
